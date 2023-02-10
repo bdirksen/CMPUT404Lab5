@@ -1,0 +1,14 @@
+Question 1:
+    Pros:
+        - security
+        - speed
+        - scaleability
+        - free hosting
+
+    Cons:
+        - more dificult to setup
+        - takes longer to build 
+        - file management is more difficult
+
+Question 2:
+    https://github.com/bdirksen/CMPUT404Lab5
